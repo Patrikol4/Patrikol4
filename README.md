@@ -2,7 +2,6 @@
 - 👀 Minhas tecnologias dominantes são Javascript/ Typescript. Frameworks são NodeJS, NextJS, React JS, React Native, Flutter.
 
 [![card](https://github-readme-stats.vercel.app/api?username=Patrikol4&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![card](https://github-readme-stats.vercel.app/api?username=Patrikol4&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrikol4&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
