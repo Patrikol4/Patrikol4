@@ -8,7 +8,10 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>JAVASCRIPT/ TYPESCRIPT / NODEJS / MONGODB </strong>
+  🦄 Tecnologias: <strong>JAVASCRIPT/ TYPESCRIPT / NODEJS / MONGODB </strong>
+</p>
+<p align="left">
+  <i>Me especializando em devOps</i>
 </p>
 
 
@@ -18,10 +21,7 @@
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=patchsouza@protonmail.com" /></a>
 
 
 
